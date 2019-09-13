@@ -67,12 +67,13 @@ The average accuracy obtained is 75.5 %.
 
 
 
-Result:
+
+RESULT:
 There are different ways to predict the stock. In this paper Neural Networks and Adaline methods are used. The stock classification problem has initially been solved using the genetic algorithm technique.
 The genetic algorithm approach has given an accuracy of 73.87%[2] . Whereas, Adaline has produced even more promising results. The average accuracy for the Adaline technique is 74.75% . In this paper we have taken into consideration five different companies namely, Apple, Microsoft, Google, IBM and Adobe. They have produced an accuracy of 76%, 75%, 77.75%, 72.5% and 71% respectively.
 The neural networks technique has also produced excellent results. The average accuracy being 75.5% . It has produced an accuracy of 77%, 76.4%, 72.6%, 74.75%, 76.78% for the companies Google, Microsoft , Adobe,Apple IBM respectively.
 
-Conclusion and Future work:
+CONCLUSION AND FUTURE WORK:
 The evolutionary techniques used  in this field looks promising and this is a very wide and interesting domain. Therefore, there is a lot of scope for futher research. This is a real world  problem , thus an algorithm with even more accuracy would be even more useful. As the used algorithms in this paper have produced an accuracy around 75% , these are a very good approach to classify the stock . We have used an input tuples of 1000 for each company. Results can be produced for smaller and even bigger data using the same logic.
 
 
