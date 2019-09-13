@@ -1,11 +1,15 @@
 # StockPricePrediction-Classification
+
 STOCK PRICE PREDICTION-CLASSIFICATION PROBLEM
 USING ADALINE AND NEURAL NETWORKS
 
+
 ABSTRACT:
 Stock market is a very challenging and interesting field. In this paper we are trying to classify whether the target prices are going to increase or decrease the next day. We are predicting the target price individually for 5 different companies. In each company 4 attributes are considered which help us predict the prices. The techniques used for this is adaline . By using these algorithms, we are trying to find connection weight for each attribute, which helps us in predicting the target price of the stock. An input for each attribute is given to a sigmoid function after that it is amplified based on its connection weight. The experimental results show that using this approach for predicting whether the stock price has increased or decreased is promising. In each case the algorithms were able to predict with an accuracy of at least 75%. 
+ 
  Keywords:
 Machine Learning, stock market, Adaline , neural networks.
+
 INTRODUCTION:
 A stock market, equity market or share market is the aggregation of buyers and sellers (a loose network of economic transactions, not a physical facility or discrete entity) of stocks (also called shares). The prediction of the stock prices has always been a challenging task. It has been observed that the stock prediction of any company does not necessarily depend on the economic conditions of the country. It is not directly linked with the economic development of the country or particular area anymore. Thus the prediction of stock price has become even more difficult than before.
 There are many factors that influence the stock price. At the most fundamental level, supply and demand in the market determine stock price. When demand for shares exceeds supply, which means the buyers are more than sellers, the prices increase. When demand is less than supply, meaning that buyers are less than sellers, the prices decrease.
@@ -13,6 +17,7 @@ Fluctuations in the economy feature what are commonly referred to as booms and d
 In this project, we are trying to predict whether the highest price is going to increase or    decrease on the next day. In this paper, we are trying to predict the price of five different companies (Google, Microsoft, Adobe, Apple, IBM). For each company, we are predicting the price of the stock of three different companies. For each company we are trying to predict whether the highest price is increasing or decreasing the next day. Thus, it is a classification problem with only two classes.
 In this paper we use two evolutionary strategies to predict the stock price. They are:
 Using  Adaline Technique.
+
 ADALINE (Adaptive Linear Neuron or later Adaptive Linear Element) is an early single-layer artificial neural network and the name of the physical device that implemented this network. It was developed by Professor Bernard Widrow and his graduate student Ted Hoff at Stanford University in 1960. It is based on the McCulloch–Pitts neuron. It consists of one weight each for each Attribute and a summation function.
 Using Neural Network
 A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes. Thus a neural network is either a biological neural network, made up of real biological neurons, or an artificial neural network, for solving artificial intelligence (AI) problems. The connections of the biological neuron are modelled as weights. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections. All inputs are modified by a weight and summed. This activity is referred as a linear combination. Finally, an activation function controls the amplitude of the output. For example, an acceptable range of output is usually between 0 and 1, or it could be −1 and 1.
