@@ -18,12 +18,6 @@ In this project, we are trying to predict whether the highest price is going to 
 In this paper we use two evolutionary strategies to predict the stock price. They are:
 Using  Adaline Technique.
 
-ADALINE (Adaptive Linear Neuron or later Adaptive Linear Element) is an early single-layer artificial neural network and the name of the physical device that implemented this network. It was developed by Professor Bernard Widrow and his graduate student Ted Hoff at Stanford University in 1960. It is based on the McCulloch–Pitts neuron. It consists of one weight each for each Attribute and a summation function.
-Using Neural Network
-A neural network is a network or circuit of neurons, or in a modern sense, an artificial neural network, composed of artificial neurons or nodes. Thus a neural network is either a biological neural network, made up of real biological neurons, or an artificial neural network, for solving artificial intelligence (AI) problems. The connections of the biological neuron are modelled as weights. A positive weight reflects an excitatory connection, while negative values mean inhibitory connections. All inputs are modified by a weight and summed. This activity is referred as a linear combination. Finally, an activation function controls the amplitude of the output. For example, an acceptable range of output is usually between 0 and 1, or it could be −1 and 1.
-
-
-
 ADALINE:
     AdaLiNe , abbreviated as Adaptive Linear Neuron, is a primitive single layered Artificial Neural Network.  It is a slight modification of the standard (McCulloch-Pitts) Perceptron.
     The main difference between the Perceptron and AdaLiNe is that the activation function is removed and the weights are adjusted according to the weighted sum of the inputs, in the learning phase where as in perceptron, the weighted sum of inputs is passed to an activation function(in general, signum function).
