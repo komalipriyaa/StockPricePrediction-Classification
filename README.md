@@ -1,14 +1,14 @@
 # StockPricePrediction-Classification
 
 STOCK PRICE PREDICTION-CLASSIFICATION PROBLEM
-USING ADALINE AND NEURAL NETWORKS
+USING ADALINE
 
 
 ABSTRACT:
 Stock market is a very challenging and interesting field. In this paper we are trying to classify whether the target prices are going to increase or decrease the next day. We are predicting the target price individually for 5 different companies. In each company 4 attributes are considered which help us predict the prices. The techniques used for this is adaline . By using these algorithms, we are trying to find connection weight for each attribute, which helps us in predicting the target price of the stock. An input for each attribute is given to a sigmoid function after that it is amplified based on its connection weight. The experimental results show that using this approach for predicting whether the stock price has increased or decreased is promising. In each case the algorithms were able to predict with an accuracy of at least 75%. 
  
  Keywords:
-Machine Learning, stock market, Adaline , neural networks.
+Machine Learning, stock market, Adaline.
 
 INTRODUCTION:
 A stock market, equity market or share market is the aggregation of buyers and sellers (a loose network of economic transactions, not a physical facility or discrete entity) of stocks (also called shares). The prediction of the stock prices has always been a challenging task. It has been observed that the stock prediction of any company does not necessarily depend on the economic conditions of the country. It is not directly linked with the economic development of the country or particular area anymore. Thus the prediction of stock price has become even more difficult than before.
@@ -44,25 +44,6 @@ The average accuracy obtained is 74.45%.
 
 
 
-NEURAL NETWORKS
-These artificial networks may be used for predictive modelling , adaptive control and applications where they can be trained via a dataset. Self-learning resulting from experience can occur within networks, which can derive conclusions from a complex and seemingly unrelated set of information.
-Variables:
-    xij -  input from unit I into unit j
-    wij - weight from unit I to unit j
-    ∆wji – change in weight
-
-Algorithm:
-    Step1: Initialize the network weights (value in range (0, 1))
-    Step2: Calculate the output 
-    Step3: Modify the weights and repeat the Step2 until the error is minimised
-Error is calculated using the Least Mean Square Method.
-Modifying Weights:
-    wji  🡨  wji + ∆wji
-    ∆wji = ƞ ẟj xji 
-
-
- 
-The average accuracy obtained is 75.5 %.
 
 
 
