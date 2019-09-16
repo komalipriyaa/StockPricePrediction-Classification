@@ -41,26 +41,10 @@ Modifying Weights:
 The average accuracy obtained is 74.45%.
 
 
-
-
-
-
-
-
-
-
 RESULT:
 There are different ways to predict the stock. In this paper Neural Networks and Adaline methods are used. The stock classification problem has initially been solved using the genetic algorithm technique.
 The genetic algorithm approach has given an accuracy of 73.87%[2] . Whereas, Adaline has produced even more promising results. The average accuracy for the Adaline technique is 74.75% . In this paper we have taken into consideration five different companies namely, Apple, Microsoft, Google, IBM and Adobe. They have produced an accuracy of 76%, 75%, 77.75%, 72.5% and 71% respectively.
-The neural networks technique has also produced excellent results. The average accuracy being 75.5% . It has produced an accuracy of 77%, 76.4%, 72.6%, 74.75%, 76.78% for the companies Google, Microsoft , Adobe,Apple IBM respectively.
 
 CONCLUSION AND FUTURE WORK:
 The evolutionary techniques used  in this field looks promising and this is a very wide and interesting domain. Therefore, there is a lot of scope for futher research. This is a real world  problem , thus an algorithm with even more accuracy would be even more useful. As the used algorithms in this paper have produced an accuracy around 75% , these are a very good approach to classify the stock . We have used an input tuples of 1000 for each company. Results can be produced for smaller and even bigger data using the same logic.
 
-
-REFERENCES:
-[1] Jyh-Shing Roger Jang, Chuen-Tsai Sun, EijiMizutani, “Neuro-Fuzzy and Soft Computing, A Computational Approach to Learning and Machine Intelligence”, Prentice Hall, Upper Saddle River, NJ 07458, pp. 175-180.
-[2]Sonal sable, Ankita Porwal, Upendra Singh, “Stock Price Prediction Using Genetic Algorithms And Evolution Strategies”, International Conference on Electronics, Communication and Aerospace Technology, 2017.
-[3] Tom M. Mitchell, “Machine Learning”, McGraw-Hill Science/Engineering/Math, pp. 86-101.
-[4]Fabrizio Romano, “Learning Python, Learn to code like a professional with Python-an open source, versatile, and powerful programming language”, Prod. Ref.: 1171215, Pact Publishing Ltd., Birmingham B3 2PB, UK.
-[5]Mahdi PakdamanNaeini, HamidrezaTaremian, HomaBaradaran Hashemi, “Stock Market Value Prediction Using Neural Networks”, 2010 International Conference on Computer Information Systems and Industrial Management Applications(CISIM), DOI: 10.1109/CISIM.2010.5643675, Source: IEEE Xplore.
